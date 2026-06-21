@@ -11,6 +11,12 @@ for you.
 > desktop app. Not an enterprise product — a clean, self-contained portfolio
 > piece.
 
+## Screenshot
+
+![DeployWizard — desktop UI](docs/screenshot.png)
+
+<!-- Drop a PNG of the running app at docs/screenshot.png and it will show here. -->
+
 ## Stack
 
 - **React 19** + **Vite 7** + **Tailwind CSS 4** — UI
